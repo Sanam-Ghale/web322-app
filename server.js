@@ -8,7 +8,6 @@ Student ID: 148755226
 Date: 05/10/2024
 Cyclic Web App URL: _______________________________________________________
 GitHub Repository URL: https://github.com/Sanam-Ghale/web322-app.git
-
 ********************************************************************************/
 
 const storeService = require('./store-service.js');
