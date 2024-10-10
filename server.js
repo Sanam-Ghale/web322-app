@@ -6,7 +6,7 @@ I declare that this assignment is my own work in accordance with Seneca  Academi
 Name: Sanam Ghale 
 Student ID: 148755226
 Date: 05/10/2024
-Cyclic Web App URL: _______________________________________________________
+Cyclic Web App URL: https://thoracic-lacy-end.glitch.me/about
 GitHub Repository URL: https://github.com/Sanam-Ghale/web322-app.git
 ********************************************************************************/
 
